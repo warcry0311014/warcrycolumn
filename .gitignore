@@ -1,0 +1,13 @@
+# Ignore venv directory
+.venv
+
+# Ignore settings
+.vscode
+
+# Ignore certain directories
+.util
+.testing
+.presentation
+
+# Ignore certain files
+uv.lock
